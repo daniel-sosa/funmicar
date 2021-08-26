@@ -11315,6 +11315,13 @@ p {
   font-weight: 700;
 }
 
+
+#mapid{
+  width: 600px; 
+  height: 400px;
+  
+}
+
 .btn-social {
   height: 2.5rem;
   width: 2.5rem;
