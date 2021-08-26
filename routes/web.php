@@ -12,7 +12,13 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
+use App\Mail\ContactanosMailable;
 
 Route::get('/', function () {
     return view('index');
+});
+Route::get('contactanos', function(){
+    $correo = new  ContactanosMailable;
+    Mail::to('daniel.sosa.ds22@gmail.com')->send($correo);
+    return "mensaje enviado";
 });
