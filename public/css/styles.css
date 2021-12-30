@@ -11315,13 +11315,22 @@ p {
   font-weight: 700;
 }
 
+.mapa{
+  width:100%;
+  height:300px;
+  
+  
+  
+}
 
-#mapid{
+
+/*#mapid{
   width: 600px; 
   height: 400px;
   
   
-}
+}*/
+
 
 .btn-social {
   height: 2.5rem;

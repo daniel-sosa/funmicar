@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+    
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Agency - Start Bootstrap Theme</title>
+        <title>Fumicar-Agencia de fumigación en Mty</title>
         <!-- Favicon-->
         <link rel="icon" type="image/x-icon" href="{{url('/imagenes/Icono.png')}}" />
         <!-- Font Awesome icons (free version)-->
@@ -38,27 +39,28 @@
             <div class="container">
 
             
-                <a class="navbar-brand" href="#page-top"><img src="{{url('/imagenes/Letther .png')}}" alt="..." /></a>
+                <a class="navbar-brand" href="#page-top"><img src="{{url('/imagenes/FumicarLetther.png')}}" alt="..." /></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
-                        <li class="nav-item"><a class="nav-link" href="#services">Inicio</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#portfolio">Nosotros</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#about">Servicios</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#team">Productos</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#masthead">Principal</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">Nosotros</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#services">Servicios</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#portfolio">Nuestro trabajo</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#team">Equipo</a></li>
                         <li class="nav-item"><a class="nav-link" href="#contact">Contactanos</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
         <!-- Masthead-->
-        <header class="masthead">
+        <header class="masthead" id="masthead">
             <div class="container">
-                <div class="masthead-heading text-uppercase">Control de plagas!</div>
-                <div class="masthead-subheading">Hongo, bacterias, plagas domesticas, plagas en jardin, etc.</div>
+                <div class="masthead-heading text-uppercase">Control de plagas y jardinería!</div>
+                <div class="masthead-subheading">Control sobre Hongo, bacterias, plagas domesticas, plagas en jardín, trabajos sofisticados en Jardinería</div>
                 <a class="btn btn-primary btn-xl text-uppercase" href="#services">Conoce mas...</a>
             </div>
         </header>
@@ -67,7 +69,7 @@
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Servicios</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="section-subheading text-muted">somos tu mejor opción en el control de plagas.</h3>
                 </div>
                 <div class="row text-center">
                     <div class="col-md-4">
@@ -75,24 +77,26 @@
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-industry fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">E-Commerce</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="my-3">Servicios Fumigación</h4>
+                        <p class="text-muted">Fumigaciones en hogares,industrias,comercios,restaurantes y residenciales.</p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-home fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Responsive Design</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="my-3">Mantenimiento de áreas verdes</h4>
+                        <p class="text-muted">ofrecemos servicios de jardinería y mantenimiento de áreas verdes
+                            ¡hacemos de tu estancia un lugar agradable!
+                        </p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-air-freshener fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Web Security</h4>
-                        <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.</p>
+                        <h4 class="my-3">Nuestros productos</h4>
+                        <p class="text-muted">Venta de Pasto en rollo tierra,arrope,fertilizantes,semillas,árboles,plantas.</p>
                     </div>
                 </div>
             </div>
@@ -101,8 +105,8 @@
         <section class="page-section bg-light" id="portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Portfolio</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Nuestro trabajo</h2>
+                    <h3 class="section-subheading text-muted">!somos una empresa con mas de 20 años de experiencia!</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
@@ -114,7 +118,7 @@
                                 </div>
 
                                 
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/1.jpg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero1.jpeg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Threads</div>
@@ -131,7 +135,7 @@
                                 </div>
 
                                 
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/2.jpg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero2.jpeg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Explore</div>
@@ -146,7 +150,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/3.jpg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero3.jpeg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Finish</div>
@@ -161,7 +165,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/4.jpg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero4.jpeg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Lines</div>
@@ -176,7 +180,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/5.jpg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero5.jpeg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Southwest</div>
@@ -191,7 +195,7 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/6.jpg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero6.jpeg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Window</div>
@@ -210,13 +214,13 @@
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Acerca de nosotros</h2>
+                    <h3 class="section-subheading text-muted">brindando el mejor servicio de fumigación y jardinería en Monterrey Nuevo León</h3>
                 </div>
                 <ul class="timeline">
                     <li>
                     
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url('/assets/img/about/1.jpg')}}" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="{{url('/assets/img/about/fumigator1.jpg')}}" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2009-2011</h4>
@@ -271,12 +275,7 @@
         </section>
 
 
-        <!--aqui inicia el div de mapa -->
-        
-         <div id="mapid">
-
-         </div>
-
+    
 
 
         <!-- Team-->
@@ -324,7 +323,13 @@
                     <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
                 </div>
             </div>
+
+
+             
         </section>
+
+
+             
         
         <!-- Contact-->
         <section class="page-section" id="contact">
@@ -408,12 +413,19 @@
                 <br>
                 <br>
                 </div>
+                
                 <div>
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
                     Whatsapp 
                 </button>                                            
 
                 </div>
+                
+                <br>
+                <br>
+
+                
+                
 
                 
                 <!-- * * * * * * * * * * * * * * *-->
@@ -424,10 +436,59 @@
                 <!-- https://startbootstrap.com/solution/contact-forms-->
                 <!-- to get an API token!-->
 
+
+                 <!--aqui inicia el div de mapa -->
+        <div class="row">
+        <div class="col-md-6">    
+        <div id="mapid">
+      
+       <div class="mapa">
+        
+       </div>
+      </div>
+    </div>
+
+
+        <div class="col-md-6">
+        <h2 class="text-primary mb-4">Dirección: </h2>
+        <p class="fs-5 text-light">Calle Nahuatl 111 fraccionamiento azteca,Guadalupe Nuevo León</p>
+
+        <h2 class="text-primary mb-4">Número Telefónico: </h2>
+        <p class="fs-5 text-light">81)80-31-31-37/81)80-87-01-48</p>
+    </div>
+
+    </div>
+
+    <!--mapa y direccion-->
+
+
 </div>
-        </section>
+    
+
+    
+
+            
+                 
+        
+
+</section>
+
+
+
+
+
+
+
+
+
+
         <!-- Footer-->
         <footer class="footer py-4">
+
+           
+<!--<a class="appWhatsapp" href="https://api.whatsapp.com/send?phone=529514212378&text=¡Hola!&nbsp;estamos&nbsp;orden?">
+<img src="{{url('/imagenes/Whatsapp.png')}}"     alt="whatsapp">
+</a>-->
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-4 text-lg-start">Copyright &copy; Your Website 2021</div>
@@ -435,6 +496,8 @@
                     <div class="col-lg-4 text-lg-end">
                         <a class="link-dark text-decoration-none me-3" href="#!">Privacy Policy</a>
                         <a class="link-dark text-decoration-none" href="#!">Terms of Use</a>
+
+
                     </div>
                 </div>
             </div>
@@ -655,8 +718,7 @@
         <!-- Core theme JS-->
         <script src="../js/scripts.js"></script>
 
-        <!---script js mapa-->
-        <script src="../js/map.js"></script>
+        
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <!-- * *                               SB Forms JS                               * *-->
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
