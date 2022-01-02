@@ -118,11 +118,11 @@
                                 </div>
 
                                 
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero1.jpeg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/fumigador1.jpg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Threads</div>
-                                <div class="portfolio-caption-subheading text-muted">Illustration</div>
+                                <div class="portfolio-caption-heading">Servicios Fumigación</div>
+                                <div class="portfolio-caption-subheading text-muted">Fumigación</div>
                             </div>
                         </div>
                     </div>
@@ -138,8 +138,8 @@
                                 <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero2.jpeg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Explore</div>
-                                <div class="portfolio-caption-subheading text-muted">Graphic Design</div>
+                                <div class="portfolio-caption-heading">Servicios de Jardinería</div>
+                                <div class="portfolio-caption-subheading text-muted">Jardin</div>
                             </div>
                         </div>
                     </div>
@@ -150,58 +150,16 @@
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero3.jpeg')}}" alt="..." />
+                                <img class="img-fluid" src="{{url('/assets/img/portfolio/barredora5.jpg')}}" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Finish</div>
-                                <div class="portfolio-caption-subheading text-muted">Identity</div>
+                                <div class="portfolio-caption-heading">Servicio de Barredora de Camino</div>
+                                <div class="portfolio-caption-subheading text-muted"> barredora de camino</div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-                        <!-- Portfolio item 4-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero4.jpeg')}}" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Lines</div>
-                                <div class="portfolio-caption-subheading text-muted">Branding</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
-                        <!-- Portfolio item 5-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero5.jpeg')}}" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Southwest</div>
-                                <div class="portfolio-caption-subheading text-muted">Website Design</div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-sm-6">
-                        <!-- Portfolio item 6-->
-                        <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="{{url('/assets/img/portfolio/jardinero6.jpeg')}}" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Window</div>
-                                <div class="portfolio-caption-subheading text-muted">Photography</div>
-                            </div>
-                        </div>
+                   
+                  
                     </div>
                 </div>
             </div>
@@ -278,49 +236,61 @@
     
 
 
-        <!-- Team-->
+        <!-- Equipo de trabajo-integrantes -->
         <section class="page-section bg-light" id="team">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Productos</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading text-uppercase">Nuestro equipo de trabajo</h2>
+                    <h3 class="section-subheading text-muted">un equipo de confianza y compromiso.</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
 
                         
-                            <img class="mx-auto rounded-circle" src="{{url('/assets/img/team/1.jpg')}}" alt="..." />
-                            <h4>Parveen Anand</h4>
-                            <p class="text-muted">Lead Designer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                            <img class="mx-auto rounded-circle" src="{{url('/assets/img/team/miguel.jpeg')}}" alt="..." />
+                            <h4>Miguel Araujo</h4>
+                            <p class="text-muted">Representante Legal.</p>
+                          
+                            <a class="btn btn-dark btn-social mx-2" href="mailto:ma.araugo@gmail.com"><i class="fas fa-envelope"></i></a>
+                         
                         </div>
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="{{url('/assets/img/team/2.jpg')}}" alt="..." />
-                            <h4>Diana Petersen</h4>
-                            <p class="text-muted">Lead Marketer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                            <img class="mx-auto rounded-circle" src="{{url('/assets/img/team/elsa.jpeg')}}" alt="..." />
+                            <h4>Elsa Calderón</h4>
+                            <p class="text-muted">Gerente.</p>
+                           
+                            <a class="btn btn-dark btn-social mx-2" href="mailto:elsa.calderon6814@gmail.com"><i class="fas fa-envelope"></i></a>
+                            
                         </div>
                     </div>
+
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="{{url('/assets/img/team/3.jpg')}}" alt="..." />
-                            <h4>Larry Parker</h4>
-                            <p class="text-muted">Lead Developer</p>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a>
+                            <img class="mx-auto rounded-circle" src="{{url('/assets/img/team/ivan.jpeg')}}" alt="..." />
+                            <h4>Iván Araujo</h4>
+                            <p class="text-muted">Asesor Técnico</p>
+                          
+                            <a class="btn btn-dark btn-social mx-2" href="mailto:miiguuell10@gmail.com"><i class="fas fa-envelope"></i></a>
+                           
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4">
+                        <div class="team-member">
+                            <img class="mx-auto rounded-circle" src="{{url('/assets/img/team/celica2.jpeg')}}" alt="..." />
+                            <h4>Celica Gómez</h4>
+                            <p class="text-muted">Representante de Ventas</p>
+                            
+                            <a class="btn btn-dark btn-social mx-2" href="mailto:celicagomez.fumicar@gmail.com"><i class="fas fa-envelope"></i></a>
+                         
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p></div>
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">Fumicar, una empresa responsable,con mas de 20 años de experiencia,brindando los mejores servicios en Jardinería y fumigación, ofreciendo los mejores productos.</p></div>
                 </div>
             </div>
 
@@ -342,7 +312,7 @@
                                 <div class="modal" id="myModal">
                                     <div class="modal-dialog">
                                     <div class="modal-content">
-                                        <h1>Contactamos por correo</h1>
+                                        <h1>Contactanos por correo</h1>
                                         <!-- Modal Header -->
                                         <div class="modal-header">
                                         <h4 class="modal-title">daniel.sosa.ds22@gmail.com</h4>
@@ -416,10 +386,18 @@
                 
                 <div>
                 <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#myModal">
-                    Whatsapp 
-                </button>                                            
+                    Whatsapp web 
+                </button> 
+                
+                
+                
 
                 </div>
+
+                <!--icono de whats app !-->
+                <a class="btn btn-dark btn-social mx-2" href="https://api.whatsapp.com/send?phone=+52 1 81 8031 3137&text=Hola, Necesito mas informacion sobre su negocio!"><i class="fab fa-whatsapp"></i></a>
+
+                
                 
                 <br>
                 <br>
@@ -513,10 +491,52 @@
                             <div class="col-lg-8">
                                 <div class="modal-body">
                                     <!-- Project details-->
-                                    <h2 class="text-uppercase">Project Name</h2>
-                                    <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/1.jpg" alt="..." />
-                                    <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
+                                    <h2 class="text-uppercase">Trabajos de Fumigación en distintas áreas</h2>
+                                    <p class="item-intro text-muted">nuestro trabajo es brindar satisfacción y calidad.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/fumigador3.jpg" alt="..." />
+                                    <p>Limpieza en áreas de trabajo de oficinas</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Threads
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Illustration
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+
+
+                                     <!-- Project details-->
+                                     <h2 class="text-uppercase">Trabajos de Fumigación en distintas áreas</h2>
+                                    <p class="item-intro text-muted">nuestro trabajo es brindar satisfacción y calidad.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/fumigador2.jpg" alt="..." />
+                                    <p>Limpieza en áreas de trabajo de oficinas</p>
+                                    <ul class="list-inline">
+                                        <li>
+                                            <strong>Client:</strong>
+                                            Threads
+                                        </li>
+                                        <li>
+                                            <strong>Category:</strong>
+                                            Illustration
+                                        </li>
+                                    </ul>
+                                    <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                        <i class="fas fa-times me-1"></i>
+                                        Close Project
+                                    </button>
+
+
+                                      <!-- Project details-->
+                                      <h2 class="text-uppercase">Trabajos de Fumigación en distintas áreas</h2>
+                                    <p class="item-intro text-muted">nuestro trabajo es brindar satisfacción y calidad.</p>
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/fumigador4.jpg" alt="..." />
+                                    <p>Limpieza en áreas de trabajo de oficinas</p>
                                     <ul class="list-inline">
                                         <li>
                                             <strong>Client:</strong>
@@ -550,7 +570,7 @@
                                     <!-- Project details-->
                                     <h2 class="text-uppercase">Project Name</h2>
                                     <p class="item-intro text-muted">Lorem ipsum dolor sit amet consectetur.</p>
-                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/2.jpg" alt="..." />
+                                    <img class="img-fluid d-block mx-auto" src="../assets/img/portfolio/fumigador3.jpg" alt="..." />
                                     <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!</p>
                                     <ul class="list-inline">
                                         <li>
@@ -566,6 +586,11 @@
                                         <i class="fas fa-times me-1"></i>
                                         Close Project
                                     </button>
+
+
+
+
+                                    
                                 </div>
                             </div>
                         </div>
